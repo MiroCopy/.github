@@ -1,1 +1,3 @@
-# .github
+# MiroCopy
+
+Скоро...
